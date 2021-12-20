@@ -1,5 +1,5 @@
-import { MMDCanvas } from '../components/MMD'
+import { CanvasComponent } from '../components/CanvasComponent'
 
 export default function Home() {
-  return <MMDCanvas />
+  return <CanvasComponent />
 }
